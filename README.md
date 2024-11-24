@@ -3,7 +3,7 @@ Project #01 - Modeling and Simulation course
 
 # Simulación del Mundial de Qatar 2022
 
-Este proyecto utiliza un enfoque probabilístico basado en técnicas de Monte Carlo para simular los resultados de los partidos del Mundial de Qatar 2022. El objetivo principal es modelar el comportamiento de los equipos a lo largo de las fases de grupos y eliminatorias, para estimar las probabilidades de victoria de cada selección.
+Este proyecto utiliza un enfoque probabilístico basado en técnicas de Monte Carlo y cadenas de Markov para simular los resultados de los partidos del Mundial de Qatar 2022. El objetivo principal es modelar el comportamiento de los equipos a lo largo de las fases de grupos y eliminatorias, para estimar las probabilidades de victoria de cada selección.
 
 ## Descripción del Proyecto
 
